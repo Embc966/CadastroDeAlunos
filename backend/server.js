@@ -1,4 +1,3 @@
-// filepath: c:\Users\meloe\Desenvolvimento\CadastroAlunos\backend\server.js
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
