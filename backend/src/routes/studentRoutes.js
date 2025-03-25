@@ -1,4 +1,3 @@
-// filepath: c:\Users\meloe\Desenvolvimento\CadastroAlunos\backend\src\routes\studentRoutes.js
 const express = require('express');
 const studentController = require('../controllers/studentController');
 
