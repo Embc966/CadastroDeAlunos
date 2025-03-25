@@ -1,24 +1,24 @@
-# Student Management System
+# Sistema de Gerenciamento de Alunos
 
-This project is a Student Management System built using Node.js, Express, MongoDB, and Mongoose for the backend, and HTML, CSS, and JavaScript for the frontend. It provides functionalities to manage student records, including adding, listing, updating, and deleting students.
+Este projeto é um Sistema de Gerenciamento de Alunos construído usando Node.js, Express, MongoDB e Mongoose para o backend, e HTML, CSS e JavaScript para o frontend. Ele fornece funcionalidades para gerenciar registros de alunos, incluindo adicionar, listar, atualizar e excluir alunos.
 
-## Frontend Setup
+## Configuração do Frontend
 
-1. Navigate to the `frontend` directory:
+1. Navegue até o `diretório` frontend:
    ```
    cd frontend
    ```
 
-2. Open the `index.html` file in your browser to view the application.
+2. Abra o arquivo `formulario.html` no seu navegador para visualizar a aplicação.
 
-3. The frontend communicates with the backend API to perform CRUD operations on student records.
+3. O frontend se comunica com a API do backend para realizar operações CRUD nos registros de alunos.
 
-## Features
+## Funcionalidades
 
-- **Add Student**: Fill out the registration form to add a new student.
-- **List Students**: View all registered students in a list format.
-- **Update Student**: Modify the details of an existing student.
-- **Delete Student**: Remove a student from the records.
+- **Adicionar Aluno:** Preencha o formulário de registro para adicionar um novo aluno.
+- **Listar Alunos:** Visualize todos os alunos registrados em formato de lista.
+- **Atualizar Aluno:** Modifique os detalhes de um aluno existente.
+- **Excluir Aluno:** Remova um aluno dos registros.
 
 ## Technologies Used
 
@@ -26,7 +26,3 @@ This project is a Student Management System built using Node.js, Express, MongoD
 - CSS
 - JavaScript
 - Fetch API for making HTTP requests to the backend
-
-## Notes
-
-Ensure that the backend server is running before accessing the frontend application. The backend API is responsible for handling all data operations related to students.
